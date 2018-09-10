@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 1f221140c6a3e854684d7dd1122517bf
+timeCreated: 1528041237
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BUTTON_1
+    100002: BUTTON_2
+    100004: BUTTON_3
+    100006: BUTTON_LOCK
+    100008: CONNECTION
+    100010: FRAME
+    100012: GLASS_1
+    100014: GLASS_2
+    100016: GLASS_GROUND
+    100018: //RootNode
+    100020: LENS_GLASS
+    100022: SCREW_1
+    100024: SCREW_2
+    400000: BUTTON_1
+    400002: BUTTON_2
+    400004: BUTTON_3
+    400006: BUTTON_LOCK
+    400008: CONNECTION
+    400010: FRAME
+    400012: GLASS_1
+    400014: GLASS_2
+    400016: GLASS_GROUND
+    400018: //RootNode
+    400020: LENS_GLASS
+    400022: SCREW_1
+    400024: SCREW_2
+    2100000: iPhone_X_CHROME
+    2100002: iPhone_X_GREY
+    2100004: iPhone_X_LENS
+    2100006: iPhone_X_ANTENNA
+    2100008: iPhone_X_FLASH
+    2100010: iPhone_X_SCREENSAVER
+    2100012: iPhone_X_RED_LOCK
+    2100014: iPhone_X_GLASS
+    2100016: lambert1
+    2300000: BUTTON_1
+    2300002: BUTTON_2
+    2300004: BUTTON_3
+    2300006: BUTTON_LOCK
+    2300008: CONNECTION
+    2300010: FRAME
+    2300012: GLASS_1
+    2300014: GLASS_2
+    2300016: LENS_GLASS
+    2300018: SCREW_1
+    2300020: SCREW_2
+    3300000: BUTTON_1
+    3300002: BUTTON_2
+    3300004: BUTTON_3
+    3300006: BUTTON_LOCK
+    3300008: CONNECTION
+    3300010: FRAME
+    3300012: GLASS_1
+    3300014: GLASS_2
+    3300016: LENS_GLASS
+    3300018: SCREW_1
+    3300020: SCREW_2
+    4300000: CONNECTION
+    4300002: FRAME
+    4300004: BUTTON_LOCK
+    4300006: BUTTON_1
+    4300008: BUTTON_2
+    4300010: BUTTON_3
+    4300012: SCREW_1
+    4300014: SCREW_2
+    4300016: LENS_GLASS
+    4300018: GLASS_1
+    4300020: GLASS_2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

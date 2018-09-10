@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="iphone" size="5.000000 5.632378" />
+    <ImageTarget name="ps4_" size="5.000000 3.228782" />
+    <ImageTarget name="thanks" size="5.000000 3.507014" />
+  </Tracking>
+</QCARConfig>
